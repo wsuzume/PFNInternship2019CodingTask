@@ -1,6 +1,6 @@
 # PFNInternship2019CodingTask
 
-PFNインターンシップ2019選考課題（コーディングタスク）の提出物です。今回私は面接で残念な結果となってしまいましたが、この提出物は1次選考を通過しましたので、次年度以降挑戦される方々の参考になればと思います。
+PFNインターンシップ2019選考課題（コーディングタスク）の提出物です。今回私は最終的に落選となり残念な結果となってしまいましたが、この提出物は1次選考を通過しましたので、次年度以降挑戦される方々の参考になればと思います。
 
 [PFNインターンシップ選考課題](https://github.com/pfnet/intern-coding-tasks)のリポジトリはこちらのリンクから参照してください。私が挑戦した課題は[MachineLearning](https://github.com/pfnet/intern-coding-tasks/tree/master/2019/machine_learning)のタスクです。
 
